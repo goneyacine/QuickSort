@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\dtech\source\repos\Quick Search App\Main.cpp(8,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Quick Search App.vcxproj -> C:\Users\dtech\source\repos\Quick Search App\Debug\Quick Search App.exe
